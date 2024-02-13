@@ -1,4 +1,4 @@
-## Magicoder 
+# Magicoder 
 
 **🎩Magicoder is a model family empowered by 🪄OSS-Instruct, a novel approach to enlightening LLMs with open-source code snippets for generating low-bias and high-quality instruction data for code.**
 
@@ -6,10 +6,12 @@
 **🪄OSS-Instruct mitigates the inherent bias of the LLM-synthesized instruction data by empowering them with a wealth of open-source references to produce more diverse, realistic, and controllable data.**
 
 
-## Project Details
+# Project Details
 
- The Magicoder-S-DS-6.7B LLM model utilizes the transformers library for natural language processing, PyTorch for deep learning and accelerate for easy parallelism. The Magicoder model is prompted with user instructions and it  generates accurate responses through a text generation pipeline. User feedback is collected and stored in a CSV file, allowing continuous improvement of the model's output accuracy.
-## Citation
+**The Magicoder-S-DS-6.7B LLM model utilizes the transformers library for natural language processing, PyTorch for deep learning and accelerate for easy parallelism. The Magicoder model is prompted with user instructions and it  generates accurate responses through a text generation pipeline. User feedback is collected and stored in a CSV file, allowing continuous improvement of the model's output accuracy.**
+
+
+# Citation
 
 ```
 @article{wei2023magicoder,
