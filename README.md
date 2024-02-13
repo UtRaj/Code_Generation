@@ -8,6 +8,7 @@
 
 ## Citation
 
+```
 @article{wei2023magicoder,
 
   title={Magicoder: Source Code Is All You Need},
@@ -19,3 +20,4 @@
   year={2023}
   
 }
+```
