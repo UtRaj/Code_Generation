@@ -9,8 +9,13 @@
 ## Citation
 
 @article{wei2023magicoder,
+
   title={Magicoder: Source Code Is All You Need},
+  
   author={Wei, Yuxiang and Wang, Zhe and Liu, Jiawei and Ding, Yifeng and Zhang, Lingming},
+  
   journal={arXiv preprint arXiv:2312.02120},
+  
   year={2023}
+  
 }
